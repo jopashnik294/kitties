@@ -1,0 +1,5 @@
+1. cd cat
+2. npm i / npm install
+3. npm run dev
+
+Вуаля, все работает! :)
